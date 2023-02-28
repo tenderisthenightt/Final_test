@@ -1,13 +1,9 @@
 # Final_test
 MCI 프로그램의 여섯가지 테스트를 각 폴더에 나눈 것이다
-.<br>
-.<br>
 - 이전 설명은 
     - test : **[Repositories📘](https://github.com/tenderisthenightt/Final_Project_true_final.git)**
 에  기술하였다
-<br>
-<Br>
-<br>
+
 ![032](https://user-images.githubusercontent.com/120777172/220515490-0720879a-1005-4ffa-bd8e-29b71dc40885.jpg)
 ![033](https://user-images.githubusercontent.com/120777172/220515461-94751b8e-84df-42b5-9a1e-13f651a9548e.jpg)
 ![034](https://user-images.githubusercontent.com/120777172/220515466-294ad89d-8020-4730-8b62-a51a4544a505.jpg)

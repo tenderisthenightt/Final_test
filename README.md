@@ -1,3 +1,4 @@
+
 # Final_test
 MCI 프로그램의 여섯가지 테스트를 각 폴더에 나눈 것이다
 
@@ -52,4 +53,3 @@ MCI 프로그램의 여섯가지 테스트를 각 폴더에 나눈 것이다
 ![076](https://user-images.githubusercontent.com/120777172/220515720-4a181787-d76d-4870-9418-38555da0f838.jpg)
 ![077](https://user-images.githubusercontent.com/120777172/220515722-356e001b-5c2d-4818-b53e-7547646d1669.jpg)
 ![078](https://user-images.githubusercontent.com/120777172/220515725-589f7ca0-d113-46aa-93b3-38b81553c049.jpg)
-
